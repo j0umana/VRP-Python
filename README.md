@@ -1,0 +1,2 @@
+# VRP-Python
+In this project, we addressed the Vehicle Routing Problem (VRP), an optimization challenge involving the efficient distribution of goods or services from a central depot to multiple locations using a fleet of vehicles. We aimed to minimize transportation costs, considering factors such as distance and time traveled. Our project involved defining the problem, including the depot and locations, determining transportation costs, and formulating constraints. We focused on minimizing the total cost of delivery routes while considering both distance and time traveled.
